@@ -1,7 +1,6 @@
 import NavBar from "./componentes/BavBar/Index";
 import BarChart from "./componentes/Barchart/Index";
 import Footer from "./componentes/Footer/Index";
-import DataTable from "./componentes/Table/Index";
 import DonutChart from "./componentes/DonutChart/Index";
 
 function App() {
