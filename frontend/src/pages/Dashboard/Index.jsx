@@ -1,5 +1,5 @@
 import BarChart from "../../componentes/Barchart/Index"
-import NavBar from "../../componentes/BavBar/Index"
+import NavBar from "../../componentes/NavBar/Index"
 import DonutChart from "../../componentes/DonutChart/Index"
 import Footer from "../../componentes/Footer/Index"
 

@@ -1,5 +1,5 @@
 import { Link } from "react-router-dom"
-import NavBar from "../../componentes/BavBar/Index"
+import NavBar from "../../componentes/NavBar/Index"
 import Footer from "../../componentes/Footer/Index"
 
 
