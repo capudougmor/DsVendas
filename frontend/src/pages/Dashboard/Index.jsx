@@ -2,6 +2,7 @@ import BarChart from "../../componentes/Barchart/Index"
 import NavBar from "../../componentes/NavBar/Index"
 import DonutChart from "../../componentes/DonutChart/Index"
 import Footer from "../../componentes/Footer/Index"
+import DataTable from "../../componentes/Table/Index"
 
 
 function Dashboard() {
@@ -26,6 +27,7 @@ function Dashboard() {
         <div className="py-3">
           <h2 className="text-primary">Todas as vendas</h2>
         </div>
+        <DataTable />
 
       </div>
       <Footer />
