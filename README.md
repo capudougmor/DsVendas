@@ -1,5 +1,5 @@
 # DS Vendas 
-[![NPM](https://img.shields.io/npm/l/react)](https://github.com/devsuperior/sds1-wmazoni/blob/master/LICENSE) 
+[![NPM](https://img.shields.io/npm/l/react)]) 
 
 # Sobre o projeto
 
@@ -11,9 +11,9 @@ A aplicação consiste em uma api de dados de vendedores com visitas e vendas ob
 
 
 ## Layout web
-![Web 1](https://github.com/acenelio/assets/raw/main/sds1/web1.png)
+![Web 1](https://github.com/capudougmor/DsVendas/blob/master/home.png)
 
-![Web 2](https://github.com/acenelio/assets/raw/main/sds1/web2.png)
+![Web 2](https://github.com/capudougmor/DsVendas/blob/master/dashboard.png)
 
 ## Modelo conceitual
 ![Modelo Conceitual](https://github.com/capudougmor/DsVendas/blob/master/sds3-mc.png)
